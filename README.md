@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Jashan. I'm a 21 year old student/developer based in Canada
+- 👋 Hey, I’m Jashan. I'm a 22 year old student/developer based in Canada
 - 👀 I have a strong passion for software development and AI
 - 🌱 I’m currently a student, focused on learning and applying
 - 💞️ I’m looking to collaborate
